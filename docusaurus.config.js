@@ -15,11 +15,11 @@ const config = {
   },
 
   // Base settings
-  url: 'http://localhost',
-  baseUrl: '/',
+  url: 'https://vijayshree-vm.github.io',
+  baseUrl: '/tourist-places/',
 
   // GitHub info – safe to leave as-is if not using GitHub Pages
-  organizationName: 'your-name',
+  organizationName: 'vijayshree-vm',
   projectName: 'tourist-places',
 
   onBrokenLinks: 'throw',
@@ -42,7 +42,10 @@ const config = {
         blog: {
           showReadingTime: true,
           editUrl: undefined,
+          blogSidebarTitle: 'All Blog Posts',
+          blogSidebarCount: 'ALL',
         },
+
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -68,11 +71,6 @@ const config = {
             label: 'Tourist Places',
           },
           { to: '/blog', label: 'Blog', position: 'left' },
-          {
-            href: 'https://github.com',
-            label: 'GitHub',
-            position: 'right',
-          },
         ],
       },
       footer: {
@@ -87,29 +85,13 @@ const config = {
               },
             ],
           },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discord.com/invite/docusaurus',
-              },
-            ],
-          },
+          
           {
             title: 'More',
             items: [
               {
                 label: 'Blog',
                 to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com',
               },
             ],
           },
