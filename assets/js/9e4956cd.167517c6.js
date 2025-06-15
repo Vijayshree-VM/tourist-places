@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktourist_places=self.webpackChunktourist_places||[]).push([[6864],{1284:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/tourist-places/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

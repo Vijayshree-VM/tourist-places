@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktourist_places=self.webpackChunktourist_places||[]).push([[8036],{1069:e=>{e.exports=JSON.parse('{"authors":[{"name":"Manjunath Mandalapure","title":"Travel Blogger","key":"yourname","page":null,"count":1},{"name":"Vijayshree Mandalapure","title":"Travel Enthusiast & Explorer","key":"Vijayshree","page":null,"count":1}]}')}}]);

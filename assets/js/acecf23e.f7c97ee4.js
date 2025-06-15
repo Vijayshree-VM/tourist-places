@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktourist_places=self.webpackChunktourist_places||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/tourist-places/blog","blogTitle":"Blog","authorsListPath":"/tourist-places/blog/authors"}')}}]);
