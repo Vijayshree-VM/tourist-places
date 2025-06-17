@@ -58,7 +58,7 @@ const config = {
     ({
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Explore Tourist Places',
+        title: 'Explore Tourist Places ',
         logo: {
           alt: 'Tourist Places Logo',
           src: 'img/logo.svg',
@@ -68,9 +68,9 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tourist Places',
+            label: 'Tourist Places ',
           },
-          { to: '/blog', label: 'Blog', position: 'left' },
+          { to: '/blog', label: 'Blog ', position: 'left' },
         ],
       },
       footer: {
