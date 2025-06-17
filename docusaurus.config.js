@@ -5,7 +5,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Explore Tourist Places',
+  title: 'Explore Tourist Places ',
   tagline: 'Your guide to beautiful destinations',
   favicon: 'img/favicon.ico',
 
